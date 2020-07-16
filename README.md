@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenu sur le blog Culture Test
 
-You can use the [editor on GitHub](https://github.com/SabriTaleb/CommuTest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ce blog est là pour vous proposer de découvrir le domaine du test au travers d'articles.
+Bonne lecture.
 
 ### Markdown
 
