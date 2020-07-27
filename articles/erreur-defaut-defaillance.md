@@ -14,7 +14,7 @@ Les défaillances sont des événements au cours desquels le logiciel ne fait pa
 
 Cela revient à ce schéma :
 
-!(/img/erreur.png)
+![schéma](/img/erreur.png)
 
 Comme vous pouvez le remarquer, l’origine des défaillances sont des défauts dont l’origine est une erreur qui est forcément humaine. Néanmoins, **un défaut n’engendre pas forcément une défaillance !**
 
