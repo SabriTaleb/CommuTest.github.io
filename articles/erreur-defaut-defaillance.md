@@ -6,8 +6,8 @@ Tous ces termes sont souvent utilisés comme des synonymes pour indiquer qu’un
 
 Dans les faits, l’ISTQB définit 3 termes spécifiques qui ont des sens bien différents et qui font régulièrement l’objet de questions à l’examen.
 
-Ces termes sont :  
-##### erreur, défaut et défaillance.
+Ces termes sont :
+### erreur, défaut et défaillance.
 
 **L'erreur est humaine** et est à l'origine des défauts.  
 **Les défauts sont des imperfections dans le logiciel**. Ces défauts peuvent engendrer des défaillances mais ce n’est pas nécessaire.  
