@@ -28,3 +28,6 @@ Ce point est particulièrement important. Afin de vous en convaincre je pourrais
 2. **L’erreur survient lors de l’achat des matériaux**. Le constructeur achète des briques rouge pour les murs
 3. On a donc un défaut, la maison a des briques rouges au lieu des parpaings.
 4. Au final il n’y a par contre **aucune défaillance** pour le propriétaire, en effet les murs sont aussi solides et l’esthétique inchangée car le parement cache le défaut. En fait, la seule différence est une meilleure isolation avec les briques rouges.
+
+
+<rm-test@inrae.fr>
