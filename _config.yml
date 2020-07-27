@@ -8,3 +8,6 @@ permalink:
   /404.html
   /erreur-defaut-defaillance.html
 text-align: right
+img:
+  max-width: 100%
+  height: auto
