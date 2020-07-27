@@ -1,4 +1,5 @@
 # Erreur, défaut et défaillance
+_____________________________________
 
 Bug, erreur, anomalie, défaut, défaillance, imprévu, mauvais comportement, crash, freeze, feature… et j’en passe.  
 Tous ces termes sont souvent utilisés comme des synonymes pour indiquer qu’un logiciel ne fonctionne pas comme on le souhaiterait sous certaines conditions.
